@@ -58,8 +58,23 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1fguKg3dnfY3YTBwxsyx-3xq3l4VIlNta/view" target='_blank'>IYEO 2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1sGsY3t1dof3KP3lKsG6_8yi1dxJX16bX/view?usp=sharing" target='_blank'>IYEO Online 2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1hwFR1-YX7f_efQkwEUNyw5ulR796DHIQ/view?usp=sharing" target='_blank'>IYEO Offline 2024</a></li>
                         </ul>
                     </li>
+                    {/* <li className='menu-item'>
+                        <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1fguKg3dnfY3YTBwxsyx-3xq3l4VIlNta/view" target='_blank'>IYEO 2023</a></li>
+                            <li className='sub-item more'>
+                                <a className='more-btn' href="#">More Items <i className='fas fa-angle-right'></i></a>
+                                <ul className='more-menu'>
+                                    <li className='more-item'><a href="#">More Item 01</a></li>
+                                    <li className='more-item'><a href="#">More Item 02</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li> */}
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
@@ -79,22 +94,7 @@ const NavbarComp = () =>{
                         </ul>
                     </li>
                     
-                    {/* <li className='menu-item'>
-                        <a className='sub-btn' href="#">With Sub-dropdown <i className='fas fa-angle-down'></i></a>
-                        <ul className='sub-menu'>
-                            <li className='sub-item'><a href="#">Sub Item 01</a></li>
-                            <li className='sub-item'><a href="#">Sub Item 02</a></li>
-                            <li className='sub-item'><a href="#">Sub Item 03</a></li>
-                            <li className='sub-item'><a href="#">Sub Item 04</a></li>
-                            <li className='sub-item more'>
-                                <a className='more-btn' href="#">More Items <i className='fas fa-angle-right'></i></a>
-                                <ul className='more-menu'>
-                                    <li className='more-item'><a href="#">More Item 01</a></li>
-                                    <li className='more-item'><a href="#">More Item 02</a></li>
-                                </ul>
-                            </li>
-                        </ul>
-                    </li> */}
+                    
                 </ul>
             </div>
             <div className='menu-btn'>
