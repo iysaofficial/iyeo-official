@@ -52,29 +52,31 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">Media Coverage <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1jkpeD9EN2kWu059MDmriUHgqil_P31xT/view" target='_blank'>Press Release 2023</a></li>
-                        </ul>
-                    </li>
-                    <li className='menu-item'>
-                        <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
-                        <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/file/d/1fguKg3dnfY3YTBwxsyx-3xq3l4VIlNta/view" target='_blank'>IYEO 2023</a></li>
-                            <li className='sub-item'><a href="https://drive.google.com/file/d/1sGsY3t1dof3KP3lKsG6_8yi1dxJX16bX/view?usp=sharing" target='_blank'>IYEO Online 2024</a></li>
-                            <li className='sub-item'><a href="https://drive.google.com/file/d/1hwFR1-YX7f_efQkwEUNyw5ulR796DHIQ/view?usp=sharing" target='_blank'>IYEO Offline 2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1NdOFy48a5igVT5h2umhzqrDZujjNRDW1/view?usp=sharing" target='_blank'>Press Release 2024</a></li>
                         </ul>
                     </li>
                     {/* <li className='menu-item'>
                         <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/file/d/1fguKg3dnfY3YTBwxsyx-3xq3l4VIlNta/view" target='_blank'>IYEO 2023</a></li>
+
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1sGsY3t1dof3KP3lKsG6_8yi1dxJX16bX/view?usp=sharing" target='_blank'>IYEO Online 2024</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1hwFR1-YX7f_efQkwEUNyw5ulR796DHIQ/view?usp=sharing" target='_blank'>IYEO Offline 2024</a></li>
+                        </ul>
+                    </li> */}
+                    <li className='menu-item'>
+                        <a className='sub-btn' href="#">List of Winner <i className='fas fa-angle-down'></i></a>
+                        <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/file/d/1fguKg3dnfY3YTBwxsyx-3xq3l4VIlNta/view" target='_blank'>IYEO 2023</a></li>
                             <li className='sub-item more'>
-                                <a className='more-btn' href="#">More Items <i className='fas fa-angle-right'></i></a>
+                                <a className='more-btn' href="#">IYEO 2024 <i className='fas fa-angle-right'></i></a>
                                 <ul className='more-menu'>
-                                    <li className='more-item'><a href="#">More Item 01</a></li>
-                                    <li className='more-item'><a href="#">More Item 02</a></li>
+                                    <li className='more-item'><a href="https://drive.google.com/file/d/1sGsY3t1dof3KP3lKsG6_8yi1dxJX16bX/view?usp=sharing">IYEO Online 2024</a></li>
+                                    <li className='more-item'><a href="https://drive.google.com/file/d/1hwFR1-YX7f_efQkwEUNyw5ulR796DHIQ/view?usp=sharing">IYEO Offline 2024</a></li>
                                 </ul>
                             </li>
                         </ul>
-                    </li> */}
+                    </li>
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
@@ -91,6 +93,7 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">Gallery <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1oZ-cr_-NdV8Gd2pUVLnrGCT9jYA0gz2v?usp=sharing" target='_blank'>2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1JROGpOT_Ow7kHwwfcr7tOs8eR0RdgDW0?usp=sharing " target='_blank'>2024</a></li>
                         </ul>
                     </li>
                     
