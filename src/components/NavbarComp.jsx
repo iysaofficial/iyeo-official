@@ -81,6 +81,7 @@ const NavbarComp = () =>{
                         <a className='sub-btn' href="#">Curation <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/1XiQPYXktmf47cO6g1sZ9HfprPE6A-5Ok" target='_blank'>IYEO 2023</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1uGmebygjQMWTht5b4JgNTJ4VokQ9wOdr?usp=sharing" target='_blank'>IYEO 2024</a></li>
                         </ul>
                     </li>
                     <li className='menu-item'>
